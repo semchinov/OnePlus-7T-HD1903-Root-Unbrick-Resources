@@ -55,6 +55,7 @@
 
 
 # OLD VERSION
+
 ```md
 
 # Root на OnePlus 7T (HD1903) под macOS
